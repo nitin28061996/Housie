@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Housie</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main1">MainActivity1</string>
+    <string name="title_activity_mainpop">pop</string>
+    <string name="title_activity_pop">Housie</string>
+    <string name="title_activity_main3">Housie</string>
+    <string name="title_activity_gridview">gridview</string>
+
+</resources>
